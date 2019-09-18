@@ -1,0 +1,55 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Ezhil"
+theme = "ezhil"
+paginate = 5
+
+pygmentsstyle = "vs"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+googleAnalytics = "UA-123-45"
+disqusShortname = "localhost"
+
+[params]
+	subtitle = "Clean and minimal personal [blog theme for Hugo](https://github.com/vividvilla/ezhil)"
+	disableDisqusTypes = ["page"]
+	featherIconsCDN = true
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
+
+[[params.social]]
+name = "Github"
+icon = "github"
+url = "https://github.com/vividvilla/ezhil"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/gohugoio"
+
+[[params.social]]
+name = "RSS"
+icon = "rss"
+url = "/index.xml"
+
+[taxonomies]
+   tag = "tags"
