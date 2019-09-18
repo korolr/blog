@@ -1,6 +1,6 @@
 baseURL = "https://blog.korolr.me/"
 languageCode = "en-us"
-title = "blog.korolr.me О интересных штуках"
+title = "blog.korolr.me About things"
 theme = "ezhil"
 paginate = 5
 
