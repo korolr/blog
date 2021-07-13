@@ -1,7 +1,7 @@
 baseURL = "https://blog.korolr.me/"
 languageCode = "en-us"
 title = "blog.korolr.me About things"
-theme = "ezhil"
+theme = "archie"
 paginate = 5
 
 pygmentsstyle = "vs"
@@ -12,7 +12,7 @@ googleAnalytics = "UA-123-45"
 disqusShortname = "localhost"
 
 [params]
-	subtitle = "Боль в ит"
+	subtitle = "Блог о вещах"
 	disableDisqusTypes = ["page"]
 	featherIconsCDN = true
 
