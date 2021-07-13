@@ -1,6 +1,6 @@
-baseURL = "https://blog.korolr.me/"
+baseURL = "https://blog.korolr.dev/"
 languageCode = "en-us"
-title = "blog.korolr.me About things"
+title = "blog.korolr.dev About things"
 theme = "archie"
 paginate = 5
 
